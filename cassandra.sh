@@ -1,3 +1,17 @@
+cqlsh
+
+
+
+sleep 5
+
+
+
+
+
+
+
+
+
 CREATE TABLE IF NOT EXISTS nsl_iot_hub.attribute (
     entity_id uuid,
     attr_id uuid,
